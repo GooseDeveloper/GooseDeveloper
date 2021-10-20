@@ -1,5 +1,5 @@
 ## Who _is_ this guy?
-Hello! My name is *******, but you can call me `@01556`. I've been coding for over a 18 months, and I've discovered the best part of programming: making software with the people, for the people. I've designed several projects so far, and I've since decided to code a few on Github!
+Hello! My name is *******, but you can call me `@01556`. I've been coding for over 18 months, and I've discovered the best part of programming: making software with the people, for the people. I've designed several projects so far, and I've since decided to code a few on Github!
 
 ## My projects
 Here's a list of projects I've finished, am working on, or plan to implement:
